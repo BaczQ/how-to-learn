@@ -1,4 +1,10 @@
 .khan__book-pic {
   width: 620px;
   height: 608px;
+  background-size: cover;
+  object-fit: unset;
+}
+
+.khan__book-pic img {
+  max-width: 100%;
 }
