@@ -8,3 +8,12 @@
   list-style-type: none;
   text-decoration: none;
 }
+
+.footer__column-link:hover {
+  text-shadow: 1px 1px 40px#2f80ed,
+    0px 0px 30px#2f80ed,
+    0px 0px 20px#2f80ed,
+    0px 0px 10px#2f80ed,
+    0px 0px 5px#2f80ed;
+
+}
